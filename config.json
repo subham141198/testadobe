@@ -1,64 +1,32 @@
 {
-
   "public": {
-
-    "default": {
-
-      "commerce-core-endpoint": "https://mcstaging.gotopac.com/graphql",
-
-      "commerce-endpoint": "https://mcstaging.gotopac.com/cs-graphql",
-
-      "headers": {
-
-        "all": {
-
-          "Store": "default"
-
-        },
-
-        "cs": {
-
-          "Magento-Customer-Group": "1",
-
-          "Magento-Store-Code": "gotopaccom",
-
-          "Magento-Store-View-Code": "default",
-
-          "Magento-Website-Code": "base",
-
-          "x-api-key": "4e4b0950-a903-467e-92ca-d70f56385cdf",
-
-          "Magento-Environment-Id": "7437e1e8-fd04-4948-8cef-d3d43c113983"
-
-        }
-
-      },
-
-      "analytics": {
-
-        "base-currency-code": "USD",
-
-        "environment": "Staging",
-
-        "store-id": 1,
-
-        "store-name": "gotopac.com",
-
-        "store-url": "https://mcstaging.gotopac.com",
-
-        "store-view-id": 1,
-
-        "store-view-name": "Default Store View",
-
-        "website-id": 1,
-
-        "website-name": "Production Automation"
-
-      }
-
-    }
-
+   "default": {
+     "commerce-core-endpoint": "https://master-7rqtwti-55l4rtwtl4cc4.us-4.magentosite.cloud/graphql",
+     "commerce-endpoint": "https://master-7rqtwti-55l4rtwtl4cc4.us-4.magentosite.cloud/cs-graphql",
+     "headers": {
+       "all": {
+         "Store": "default"
+       },
+       "cs": {
+         "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+         "Magento-Store-Code": "default",
+         "Magento-Store-View-Code": "default",
+         "Magento-Website-Code": "base",
+         "x-api-key": "772a3934ee4a4e3595eafa556eb52454",
+         "Magento-Environment-Id": "d1801022-84c0-4043-a206-fd21ffb6dabf"
+       }
+     },
+     "analytics": {
+       "base-currency-code": "USD",
+       "environment": "Production",
+       "store-id": 1,
+       "store-name": "Main Website Store",
+       "store-url": "https://master-7rqtwti-55l4rtwtl4cc4.us-4.magentosite.cloud",
+       "store-view-id": 1,
+       "store-view-name": "Default Store View",
+       "website-id": 1,
+       "website-name": "Main Website"
+     }
+   }
   }
-
 }
- 
