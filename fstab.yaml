@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/folders/1j3sHk4e_TQ4rrOdYCKIscRqdMnAz-Sgz?usp=drive_link/bhavieway/mysite/
+    url: https://drive.google.com/drive/folders/1j3sHk4e_TQ4rrOdYCKIscRqdMnAz-Sgz?usp=drive_link
     type: markup
 
 folders:
