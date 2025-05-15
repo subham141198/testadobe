@@ -5,7 +5,7 @@ module.exports = defineConfig({
   ...baseConfig,
   env: {
     ...baseConfig.env,
-    graphqlEndPoint: 'https://www.aemshop.net/graphql',
+    graphqlEndPoint: 'https://master-7rqtwti-55l4rtwtl4cc4.us-4.magentosite.cloud/graphql',
     giftCardA: '000Y7YLECJ34',
     giftCardB: '00DW3UNWPPVE',
     giftCardC: '00FNX8SEWWND',

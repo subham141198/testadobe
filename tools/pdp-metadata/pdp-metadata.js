@@ -4,7 +4,7 @@ import he from 'he';
 import productSearchQuery from './queries/products.graphql.js';
 import { variantsFragment } from './queries/variants.graphql.js';
 
-const basePath = 'https://www.aemshop.net';
+const basePath = 'https://master-7rqtwti-55l4rtwtl4cc4.us-4.magentosite.cloud/';
 const configFile = `${basePath}/configs.json?sheet=prod`;
 
 export async function commerceEndpointWithQueryParams(config) {

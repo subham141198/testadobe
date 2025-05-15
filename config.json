@@ -9,7 +9,7 @@
        },
        "cs": {
          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-         "Magento-Store-Code": "default",
+         "Magento-Store-Code": "main_website_store",
          "Magento-Store-View-Code": "default",
          "Magento-Website-Code": "base",
          "x-api-key": "772a3934ee4a4e3595eafa556eb52454",
